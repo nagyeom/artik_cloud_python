@@ -1,12 +1,20 @@
 # artik_cloud_python
 python source code in gateway for using ARTIK cloud
 
-## 대상 디바이스
-* 게이트웨이 : ARTIK 710
-* LED 디바이스 : ARTIK 530 + RGB LED 전구
+## Requirements
+* Gateway : ARTIK 710
+* LED device : ARTIK 530 + RGB LED 전구
+* artik cloud sdk
+* python 2.7
 
 ## Process
 <p align="center">
   <img src="process.PNG">
 </p>
 
+## 실행방법
+### Gateway
+    python iotGateway.py
+
+### LED device 
+    python sub_Cloud.py
