@@ -6,5 +6,7 @@ python source code in gateway for using ARTIK cloud
 * LED 디바이스 : ARTIK 530 + RGB LED 전구
 
 ## Process
-![Alt text]('process.PNG')
+<p align="center">
+  <img src="process.PNG">
+</p>
 
